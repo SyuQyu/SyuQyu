@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning 3D & Web Development
-### my 3D Project
+### My 3D Project
+<li>https://www.tiktok.com/@syuqyu</li>
 ### https://www.tiktok.com/@syuqyu
 ### https://www.instagram.com/syuqyu
 
