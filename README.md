@@ -2,8 +2,8 @@
 ### 🌱 I’m currently learning 3D & Web Development
 ### My 3D Project
 <li>https://www.tiktok.com/@syuqyu</li>
-### https://www.tiktok.com/@syuqyu
-### https://www.instagram.com/syuqyu
+<li>https://www.instagram.com/syuqyu</li>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SyuQyu&show_icons=true&theme=radical)
 
