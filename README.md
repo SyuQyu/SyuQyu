@@ -3,6 +3,7 @@
 ### My 3D Project
 <li>https://www.tiktok.com/@syuqyu</li>
 <li>https://www.instagram.com/syuqyu</li>
+<li>https://www.artstation.com/panxzzlyn</li>
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SyuQyu&show_icons=true&theme=radical)
