@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
-### 🌱 I’m currently learning 3D & Web Development
-### My 3D Project
+<h3>🌱 I’m currently learning 3D & Web Development</h3>
+<h3>My 3D Project</h3>
 <li>https://www.tiktok.com/@syuqyu</li>
 <li>https://www.instagram.com/syuqyu</li>
 <li>https://www.artstation.com/panxzzlyn</li>
