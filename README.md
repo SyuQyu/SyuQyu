@@ -10,13 +10,13 @@
 ## Social Media
 
 <p align="center">
- <a href="[https://SyuQyu.com](https://ndu-porto.netlify.app/)" target="blank">
+ <a href="https://ndu-porto.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="SyuQyu" />
  </a>
- <a href="[https://linkedin.com/in/al-siam](https://id.linkedin.com/in/pandu-utomo)" target="_blank">
+ <a href="https://id.linkedin.com/in/pandu-utomo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SyuQyu"/>
  </a>
- <a href="[https://dev.to/SyuQyu](https://gitlab.com/panxzzlyn)" target="_blank">
+ <a href="[https://gitlab.com/panxzzlyn" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="SyuQyu" />
  </a>
 <!--  <a href="https://instagram.com/SyuQyu_dev" target="_blank">
