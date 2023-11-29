@@ -16,9 +16,9 @@
  <a href="[https://linkedin.com/in/al-siam](https://id.linkedin.com/in/pandu-utomo)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SyuQyu"/>
  </a>
- <!-- <a href="https://dev.to/SyuQyu" target="_blank">
+ <a href="[https://dev.to/SyuQyu](https://gitlab.com/panxzzlyn)" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="SyuQyu" />
- </a> -->
+ </a>
 <!--  <a href="https://instagram.com/SyuQyu_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="SyuQyu" />
  </a> 
